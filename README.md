@@ -26,4 +26,4 @@ Feel free to contribute to this repository by submitting pull requests.
 
 ## License
 
-MIT
+[MIT]
