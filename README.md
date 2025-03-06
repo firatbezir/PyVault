@@ -28,7 +28,7 @@ A simple Pong game implemented using the `turtle` library.
 This project is a recreation of the classic Pong game using Python's `turtle` graphics library. Two players control paddles to bounce the ball back and forth, trying to prevent it from passing their side. The ball speeds up with each successful hit, making the game progressively more challenging.
 
 **Screenshot:**  
-![Screenshot from 2025-03-06 19-33-59](https://github.com/user-attachments/assets/a81f919a-c5ab-4670-8bd1-562a2a405602)
+![Screenshot from 2025-03-06 19-37-19](https://github.com/user-attachments/assets/ab1b1a1b-1322-4dc2-a157-70c112dcde81)
 
 
 **How to Run:**  
