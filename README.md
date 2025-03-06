@@ -16,9 +16,26 @@ This project is a recreation of the classic Snake game using Python's `turtle` g
 
 **How to Run:**
 1. Navigate to the project directory: `cd 01-SnakeGame`
-2. Run the game: `python snake_game.py` (or whatever your main file is named)
+2. Run the game: `python main.py` 
 
 ---
+
+### 02-ArcadePong
+
+A simple Pong game implemented using the `turtle` library.
+
+**Description:**  
+This project is a recreation of the classic Pong game using Python's `turtle` graphics library. Two players control paddles to bounce the ball back and forth, trying to prevent it from passing their side. The ball speeds up with each successful hit, making the game progressively more challenging.
+
+**Screenshot:**  
+![Screenshot from 2025-03-06 19-33-59](https://github.com/user-attachments/assets/a81f919a-c5ab-4670-8bd1-562a2a405602)
+
+
+**How to Run:**  
+1. Navigate to the project directory: `cd 02-ArcadeGame`  
+2. Run the game: `main.py` 
+---
+
 
 ## Contributing
 
