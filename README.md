@@ -52,7 +52,7 @@ In this game, the player moves a turtle upwards to cross the screen while avoidi
 
 
 **How to Run:**  
-1. Navigate to the project directory: `cd 03-Turtle-Crossing`  
+1. Navigate to the project directory: `cd 03-TurtleCrossing`  
 2. Run the game: `main.py` 
 ---
 
