@@ -56,6 +56,12 @@ In this game, the player moves a turtle upwards to cross the screen while avoidi
 2. Run the game: `main.py` 
 ---
 
+### 04 - Mail Merge
+
+**Description**
+This project generates personalized letters for each name listed in a file. It reads a template letter, replaces the placeholder with the name, and saves each letter as a .docx file in a specified output directory.
+
+
 
 ## Contributing
 
