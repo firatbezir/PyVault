@@ -137,6 +137,36 @@ A productivity timer based on the Pomodoro technique — focus for 25 minutes, r
 2. Run the app: `main.py`
 ---
 
+### 09 - StrongPasswordGenerator GUI 
+
+**Description:**  
+This is a simple GUI-based strong password generator built using Python and Tkinter.  
+It allows users to generate secure passwords with customizable length and complexity options.  
+A logo image is also included in the app interface for better user experience.
+
+**Features:**
+- **Password Generation**: Generate strong, random passwords with a combination of letters, numbers, and symbols.
+- **Password Storage**: Save passwords along with associated website URLs and emails for easy access.
+- **Clipboard Copying**: Copy generated passwords to clipboard with a single click for easy pasting.
+- **Secure Storage**: Store passwords securely and access them later.
+- **User-Friendly Interface**: Simple and intuitive GUI built using `tkinter`.
+- **Overwrite Prevention**: Prevent accidental overwriting of passwords when generating new ones.
+- **Auto-fill Fields**: Auto-fill email and website URL fields with default example text for better usability.
+- **Password Length Control**: The generated password length can be customized between 8 to 10 characters for a more secure or simple password.
+- **Validation**: Ensures all fields (website, email, password) are filled before saving, preventing incomplete records.
+
+
+**Screenshot:**  
+![Screenshot from 2025-04-21 19-34-42](https://github.com/user-attachments/assets/26c217d6-be5c-4c8f-b53b-35e4c75068da)
+![Screenshot from 2025-04-21 19-34-55](https://github.com/user-attachments/assets/57918984-446f-44b5-bca0-41385f820557)
+![Screenshot from 2025-04-21 19-35-01](https://github.com/user-attachments/assets/8922b2bf-beab-4797-928e-4d8e33038460)
+
+
+**How to Run:**  
+1. Navigate to the project directory: `cd 09-StrongPasswordGeneratorGUI`  
+2. Run the app: `main.py`
+---
+
 
 ## Contributing
 
