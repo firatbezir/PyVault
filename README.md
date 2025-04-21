@@ -60,7 +60,82 @@ In this game, the player moves a turtle upwards to cross the screen while avoidi
 
 **Description**
 This project generates personalized letters for each name listed in a file. It reads a template letter, replaces the placeholder with the name, and saves each letter as a .docx file in a specified output directory.
+---
 
+### 05 - State Guess Game
+
+**Description:**  
+A U.S. state-guessing game using `turtle` and `pandas`. Players type state names to place them on a blank U.S. map.
+**Features:**
+
+- Visual map updates with correct guesses
+- Score tracking
+- Saves unguessed states to a .csv for review
+
+**Screenshot:**  
+![Screenshot from 2025-04-21 12-46-35](https://github.com/user-attachments/assets/2c9f0f31-e03b-4d14-a28b-0691c68d8f2d)
+
+
+**How to Run:**  
+1. Navigate to the project directory: `cd 05-StateGuessGame`  
+2. Run the game: `main.py` 
+---
+
+### 06 - NATO Phonetic Alphabet Converter
+
+**Description:**  
+A simple app that converts any word into its NATO phonetic equivalent using a dictionary and `pandas`.
+
+**Example:**
+- `"Hello"` → `["Hotel", "Echo", "Lima", "Lima", "Oscar"]`
+
+**Screenshot:**  
+![Screenshot from 2025-04-21 12-57-35](https://github.com/user-attachments/assets/0af448c3-78de-44c3-8ac8-de19ced0dc9f)
+
+
+**How to Run:**  
+1. Navigate to the project directory: `cd 06-NatoFoneticAlphabet`  
+2. Run the app: `main.py` 
+
+---
+
+### 07 - Km to Mile Converter (Tkinter GUI)
+
+**Description:**  
+A GUI-based unit converter that converts kilometers to miles using a basic formula.
+
+**Features:**
+- Simple `tkinter` interface
+- Real-time conversion on button click
+
+**Screenshot:**  
+![Screenshot from 2025-04-21 12-59-13](https://github.com/user-attachments/assets/f7f0cb16-e4fe-4017-bb01-366240b12fc9)
+
+
+**How to Run:**  
+1. Navigate to the project directory: `cd 07-KmToMileConverter`  
+2. Run the app: `main.py` 
+
+---
+
+### 08 - Pomodoro GUI Timer
+
+**Description:**  
+A productivity timer based on the Pomodoro technique — focus for 25 minutes, rest for 5, repeat.
+
+**Features:**
+- Countdown timer with start/reset functionality
+- Visual cycle tracking with check marks
+- Built with tkinter
+
+**Screenshot:**  
+![Screenshot from 2025-04-21 13-15-21](https://github.com/user-attachments/assets/7beee745-cb4d-47af-a509-bae37dc396c1)
+
+
+**How to Run:**  
+1. Navigate to the project directory: `cd 08-PomodoroGUI`  
+2. Run the app: `main.py`
+---
 
 
 ## Contributing
