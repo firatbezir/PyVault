@@ -167,6 +167,28 @@ A logo image is also included in the app interface for better user experience.
 2. Run the app: `main.py`
 ---
 
+### 11 - Birthday Wisher via Email
+
+**Description:**  
+An automated birthday wisher that checks a CSV file daily and sends personalized birthday emails using SMTP.
+
+**Features:**
+- Reads birthdays from a CSV file
+- Sends personalized birthday emails using a random letter template
+- Automatically matches today's date with birthday entries
+- Sends emails via Gmail SMTP
+- Built with Python (no GUI)
+
+**Example CSV (birthdays.csv):**
+```
+name,email,year,month,day
+John,john@example.com,1990,5,1
+```
+
+**How to Run:**  
+1. Make sure the birthdays.csv and letter_templates/letter_1.txt, letter_2.txt, letter_3.txt exist
+2. Set your email and App Password
+3. Run the script: `python main.py`
 
 ## Contributing
 
